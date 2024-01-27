@@ -1,3 +1,6 @@
+# [ZennのBookのハンズオン](https://zenn.dev/nino/books/30e21d37af73b5)
+> Next.js 14 / Prisma / Clerk / Vercel Postgres / CloudFlare R2 / shadcn/ui / Tailwind CSS を使ったアプリ開発の雰囲気をつかむ
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
