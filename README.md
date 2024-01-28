@@ -3,6 +3,12 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## 各種リンク
+- [cloudflare](https://dash.cloudflare.com/162ba233cb55a3d544328ee55274e274/r2/default/buckets/tutorial-nino/settings)
+- [clerk](https://dashboard.clerk.com/apps/app_2bZlwXxzC2An4ibKfFX7v94Zc0N/instances/ins_2bZlwbwIiC07pw98kePj5Viyjw2)
+- [vercel](https://vercel.com/tamasyu/tutorial-nino/stores/postgres/store_hHrT3IMdn0aoBcae/guides)
+- []()
+
 ## Getting Started
 
 First, run the development server:
