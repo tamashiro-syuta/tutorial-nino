@@ -12,6 +12,7 @@ model User {
   // ID は Clerk のユーザーIDを使うのでデフォルトの乱数IDは使わない
   id        String      @id
   name      String
+  profileImageURL String?
   createdAt DateTime @default(now())
   posts Post[]
 }

@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react';
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
@@ -19,9 +20,11 @@ export default function RootLayout({
   return (
     <ClerkProvider afterSignInUrl="/" afterSignUpUrl="/onboarding">
       <html lang="ja">
+        <Analytics />
         <body className={inter.className}>
           <Header />
-          {children}</body>
+          {children}
+        </body>
       </html>
     </ClerkProvider>
   );
